@@ -1,0 +1,38 @@
+h1 {
+    color:black;
+    background-color: orange;
+    font-size: 2.5em;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    word-spacing: 0.5em;
+    text-align: center;
+}
+h2 {
+    color:white;
+    background-color: chocolate;
+}
+/* coloring option thank you hassuny  */
+p {
+    color: saddlebrown;
+}
+
+/* footer */
+footer {
+    color: saddlebrown;
+    background-color: palegoldenrod;
+    font-size: 0.7em;
+    text-align: center;
+}
+
+body { 
+    background-color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+a {
+    color: orange;
+    font-size: 1.5em;
+    text-decoration: none;
+
+}

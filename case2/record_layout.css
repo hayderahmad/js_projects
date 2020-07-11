@@ -1,0 +1,35 @@
+/* style for the "record" file 
+by Haider Alsoudani
+9/6/2019 */
+
+/* body style */
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: #c0e59b;
+}
+
+/* h1 style */
+
+h1{
+    text-align: center;
+}
+h2{
+    color: navy;
+}
+h3{
+    color: navy;
+    font-weight: bold;
+
+}
+
+#hay {
+
+    line-height: 1.5em;
+    text-indent: 5em;
+}
+h4{
+    font-style: italic;
+    color: maroon;
+    text-transform: uppercase;
+}

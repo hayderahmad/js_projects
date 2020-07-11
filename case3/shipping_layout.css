@@ -1,0 +1,42 @@
+/* style sheet for "shipping" file 
+by Haider Alsoudani
+9/6/2019  */
+/* body style */
+
+body{
+    font-size: 1.1em;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #c19b76
+}
+
+h1{
+    font-style: italic;
+    font-size: 1.5em;
+    color: #b87333 black;
+    font-family: serif;
+}
+h2{
+    color: white;
+    background: teal;
+
+}
+h3{
+    color: white;
+    background: teal;
+    
+}
+h4{
+    text-transform: lowercase;
+}
+em{
+    color: green;
+    font-weight: bolder;
+    font-style: italic;
+}
+#hay{
+    font-size: 1.5em;
+    font-weight: bold;
+    color: teal;
+    text-decoration: none;
+
+}

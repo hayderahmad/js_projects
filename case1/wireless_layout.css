@@ -1,0 +1,27 @@
+/* wireless layout */
+
+/* body style */
+
+body {
+    font-size: 1.2em;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #e6e6fa;
+    
+}
+
+/* emphisize style */
+#hay {
+ color: green;
+ font-weight: bold;
+
+}
+
+/* h3 style */
+
+h3 {
+    color: maroon;
+    text-align: right;
+    text-transform: uppercase;
+    font-size: 1.3em;
+    font-family: Times;
+}
